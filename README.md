@@ -1,6 +1,7 @@
 # flutter_app
 
-A new Flutter application.
+- register
+- login
 
 ## Getting Started
 
