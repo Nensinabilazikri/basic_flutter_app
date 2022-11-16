@@ -1,5 +1,8 @@
 # flutter_app
 
+- splashscreen
+- dashboard
+- navigation drawer
 - register
 - login
 
